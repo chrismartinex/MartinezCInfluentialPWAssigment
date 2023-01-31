@@ -1,0 +1,19 @@
+body {
+ background-color: khaki;
+}
+div {
+        /* /height: 200px; */
+       /* margin: 2px; */
+        border: 1px solid;
+        color: red;
+    }
+.khaki {
+    background-color: khaki;
+}
+.apperal
+{
+    background-color: rgb(218, 12, 12);
+}
+.blackText {
+    color: black;
+}
